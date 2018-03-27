@@ -1,0 +1,8 @@
+E:\projects\坐标转换\坐标转换\bin\Release\坐标转换.exe
+E:\projects\坐标转换\坐标转换\bin\Release\坐标转换.pdb
+E:\projects\坐标转换\坐标转换\obj\Release\坐标转换.csprojResolveAssemblyReference.cache
+E:\projects\坐标转换\坐标转换\obj\Release\坐标转换.Form1.resources
+E:\projects\坐标转换\坐标转换\obj\Release\坐标转换.Properties.Resources.resources
+E:\projects\坐标转换\坐标转换\obj\Release\坐标转换.csproj.GenerateResource.Cache
+E:\projects\坐标转换\坐标转换\obj\Release\坐标转换.exe
+E:\projects\坐标转换\坐标转换\obj\Release\坐标转换.pdb

@@ -1,0 +1,16 @@
+E:\软件练习\123_EX\坐标转换\坐标转换\bin\Debug\坐标转换.exe
+E:\软件练习\123_EX\坐标转换\坐标转换\bin\Debug\坐标转换.pdb
+E:\软件练习\123_EX\坐标转换\坐标转换\obj\Debug\坐标转换.csprojResolveAssemblyReference.cache
+E:\软件练习\123_EX\坐标转换\坐标转换\obj\Debug\坐标转换.Form1.resources
+E:\软件练习\123_EX\坐标转换\坐标转换\obj\Debug\坐标转换.Properties.Resources.resources
+E:\软件练习\123_EX\坐标转换\坐标转换\obj\Debug\坐标转换.csproj.GenerateResource.Cache
+E:\软件练习\123_EX\坐标转换\坐标转换\obj\Debug\坐标转换.exe
+E:\软件练习\123_EX\坐标转换\坐标转换\obj\Debug\坐标转换.pdb
+E:\projects\坐标转换\坐标转换\bin\Debug\坐标转换.exe
+E:\projects\坐标转换\坐标转换\bin\Debug\坐标转换.pdb
+E:\projects\坐标转换\坐标转换\obj\Debug\坐标转换.csprojResolveAssemblyReference.cache
+E:\projects\坐标转换\坐标转换\obj\Debug\坐标转换.Form1.resources
+E:\projects\坐标转换\坐标转换\obj\Debug\坐标转换.Properties.Resources.resources
+E:\projects\坐标转换\坐标转换\obj\Debug\坐标转换.csproj.GenerateResource.Cache
+E:\projects\坐标转换\坐标转换\obj\Debug\坐标转换.exe
+E:\projects\坐标转换\坐标转换\obj\Debug\坐标转换.pdb
