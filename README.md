@@ -1,5 +1,5 @@
 # transcoord
-geographical coordinate transformation of bd09，wgs84，gcj2000.
+geographical coordinate transformation of bd09，wgs84，gcj02.
 
 包括百度坐标系，火星坐标系，WGS坐标系之间的六种转换
 
@@ -7,5 +7,5 @@ geographical coordinate transformation of bd09，wgs84，gcj2000.
 
 输出：转换后的经纬度添加到csv文件最后两列
 
-**JS转换：**
+**JS转换版本：**
 https://worldspace.cc/projects/CoordTransfer.html
